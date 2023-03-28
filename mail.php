@@ -1,7 +1,7 @@
 <?php
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
-  $to = "example@example.com"; // Emil manzilingizni qo'shing
+  $to = "hoshimov998@gmil.com"; // Emil manzilingizni qo'shing
   $name = test_input($_POST["name"]);
   $email = test_input($_POST["email"]);
   $phone = test_input($_POST["phone"]);
